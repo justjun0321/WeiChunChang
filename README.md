@@ -1,19 +1,19 @@
-## Welcome to GitHub Pages
+## Welcome to My Portfolio
 
-You can use the [editor on GitHub](https://github.com/justjun0321/WeiChunChang/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+My name is Wei Chun Chang. Here is my [LinkedIn Profile](https://www.linkedin.com/in/weichunchang/). If you want to know me more, feel free to check it out. If you like my code and think I'm good at it, don't forget to endorse my skills!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+In the following part, I'll walk you through some of my projects. Enjoy the trip!
 
-### Markdown
+### Introduction
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+A self-motivated Data Scientist, having my portfolio here
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### Porject 1
+### Porject 2
+### Porject 3
 
 - Bulleted
 - List
